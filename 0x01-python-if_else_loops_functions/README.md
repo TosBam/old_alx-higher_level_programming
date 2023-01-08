@@ -1,1 +1,1 @@
-This task is all about conditions in python
+If, else and loop functions in python
